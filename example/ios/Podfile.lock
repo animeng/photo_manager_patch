@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - photo_manager (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - photo_manager (from `/Users/wanganimeng/flutter/.pub-cache/hosted/pub.dartlang.org/photo_manager-0.3.3/ios/photo_manager.podspec`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  photo_manager:
+    :path: "/Users/wanganimeng/flutter/.pub-cache/hosted/pub.dartlang.org/photo_manager-0.3.3/ios/photo_manager.podspec"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  photo_manager: d47ddf6cb25cbfa837dc334540eb9a99b208e191
+
+PODFILE CHECKSUM: dd4c3bacfcfe689bbee14d5309fa1c97c22898b6
+
+COCOAPODS: 1.7.5
